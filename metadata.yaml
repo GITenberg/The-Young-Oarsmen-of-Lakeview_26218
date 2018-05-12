@@ -1,0 +1,33 @@
+_repo: The-Young-Oarsmen-of-Lakeview_26218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2008-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+title: The Young Oarsmen of Lakeview
+url: http://www.gutenberg.org/ebooks/26218
